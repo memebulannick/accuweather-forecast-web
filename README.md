@@ -54,3 +54,11 @@ Lastly, the user must have a text editor. The developers suggest [Visual Studio 
 [**Dayjs**](https://day.js.org/en/) - A minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API.
 
 [**Axios**](https://axios-http.com/docs/intro) - A promise-based HTTP Client for node.js
+
+### IMPORTANT CLASSES
+
+#### Initialization Classes
+- **main.js** - Handles the initialization of Vue components.
+
+#### Screens
+- **App.vue** - Page that contains the single-page web app. 
