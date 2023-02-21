@@ -49,6 +49,6 @@ Lastly, the user must have a text editor. The developers suggest [Visual Studio 
 
 ### LIBRARIES
 
-[**Tailwind CSS**](https://tailwindcss.com/) - A utility first CSS framework that can be composed to build any design, directly in your markup.  
+[**Tailwind CSS**](https://tailwindcss.com/) - A utility first CSS framework that can be composed to build any design, directly in your markup.
 [**Dayjs**](https://day.js.org/en/) - A minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API.
 [**Axios**](https://axios-http.com/docs/intro) - A promise-based HTTP Client for node.js
